@@ -1,0 +1,56 @@
+/* External style */
+
+h1, ul, li  {
+    display: inline-block;
+    margin: 10px;
+    background-color: black;
+    color: white;
+   
+    
+}
+
+
+
+img {
+   width: 80px;
+}
+
+li {
+
+    list-style: none;
+    font-size: 20px;
+    color: white;
+
+}
+
+
+a {
+
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    
+}
+.kinodiv {
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.kinonomi {
+    text-align: center;
+    font-size: 15px;
+}
+
+.rasmhajmi {
+    height: 300px;
+    width: 200px;
+}
+
+
+
+
+
